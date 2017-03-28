@@ -1,0 +1,49 @@
+[2017/03/28 17:14:49 CST] [INFO] (ngrok/log.Info:112) Reading configuration file ../debug.yml
+[2017/03/28 17:14:49 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[2017/03/28 17:14:49 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [view] [web] Serving web interface on 127.0.0.1:4040
+[2017/03/28 17:14:49 CST] [INFO] (ngrok/log.Info:112) Checking for update
+[2017/03/28 17:14:49 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/03/28 17:14:49 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7515567d] New connection to: 127.0.0.1:4443
+[2017/03/28 17:14:49 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7515567d] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"linux","Arch":"amd64","ClientId":""}}
+[2017/03/28 17:14:49 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7515567d] Closing
+[2017/03/28 17:14:49 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for *.ngrok.com, not ngrok.caowei.name
+[2017/03/28 17:14:49 CST] [INFO] (ngrok/log.Info:112) Waiting 1 seconds before reconnecting
+[2017/03/28 17:14:50 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/03/28 17:14:50 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:284b44ae] New connection to: 127.0.0.1:4443
+[2017/03/28 17:14:50 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:284b44ae] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"linux","Arch":"amd64","ClientId":""}}
+[2017/03/28 17:14:50 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:284b44ae] Closing
+[2017/03/28 17:14:50 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for *.ngrok.com, not ngrok.caowei.name
+[2017/03/28 17:14:50 CST] [INFO] (ngrok/log.Info:112) Waiting 2 seconds before reconnecting
+[2017/03/28 17:14:51 CST] [INFO] (ngrok/log.Info:112) No update available
+[2017/03/28 17:14:52 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/03/28 17:14:52 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5f541a0f] New connection to: 127.0.0.1:4443
+[2017/03/28 17:14:52 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5f541a0f] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"linux","Arch":"amd64","ClientId":""}}
+[2017/03/28 17:14:52 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5f541a0f] Closing
+[2017/03/28 17:14:52 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for *.ngrok.com, not ngrok.caowei.name
+[2017/03/28 17:14:52 CST] [INFO] (ngrok/log.Info:112) Waiting 4 seconds before reconnecting
+[2017/03/28 17:14:56 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/03/28 17:14:56 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4cdd6235] New connection to: 127.0.0.1:4443
+[2017/03/28 17:14:56 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4cdd6235] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"linux","Arch":"amd64","ClientId":""}}
+[2017/03/28 17:14:56 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4cdd6235] Closing
+[2017/03/28 17:14:56 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for *.ngrok.com, not ngrok.caowei.name
+[2017/03/28 17:14:56 CST] [INFO] (ngrok/log.Info:112) Waiting 8 seconds before reconnecting
+[2017/03/28 17:15:04 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/03/28 17:15:04 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:746faeea] New connection to: 127.0.0.1:4443
+[2017/03/28 17:15:04 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:746faeea] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"linux","Arch":"amd64","ClientId":""}}
+[2017/03/28 17:15:04 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:746faeea] Closing
+[2017/03/28 17:15:04 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for *.ngrok.com, not ngrok.caowei.name
+[2017/03/28 17:15:04 CST] [INFO] (ngrok/log.Info:112) Waiting 16 seconds before reconnecting
+[2017/03/28 17:15:20 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/03/28 17:15:20 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:32880567] New connection to: 127.0.0.1:4443
+[2017/03/28 17:15:20 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:32880567] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"linux","Arch":"amd64","ClientId":""}}
+[2017/03/28 17:15:20 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:32880567] Closing
+[2017/03/28 17:15:20 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for *.ngrok.com, not ngrok.caowei.name
+[2017/03/28 17:15:20 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/03/28 17:15:50 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3d63f5ce] New connection to: 127.0.0.1:4443
+[2017/03/28 17:15:50 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3d63f5ce] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"linux","Arch":"amd64","ClientId":""}}
+[2017/03/28 17:15:50 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/03/28 17:15:50 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3d63f5ce] Closing
+[2017/03/28 17:15:50 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for *.ngrok.com, not ngrok.caowei.name
+[2017/03/28 17:15:50 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/03/28 17:16:07 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [view] [term] Got quit command
+[2017/03/28 17:16:07 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [controller] Shutting down
